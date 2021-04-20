@@ -36,11 +36,11 @@
     </nav>
 
 
-    <div class="container">
+   
 
 
 <h1 class="header-text">PROJECTS</h1>
-<div class="card" style="width: 75rem;">
+<div class="card" style="width: 50rem;">
     <img src="1stIMG.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">HYDROPONICS</h5>
@@ -53,7 +53,7 @@
   </div>
 
 
-  <div class="card" style="width: 75rem;">
+  <div class="card" style="width: 50rem;">
     <img src="2ndIMG.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Lorem, ipsum.</h5>
@@ -65,7 +65,7 @@
     </div>
   </div>
 
-  <div class="card" style="width: 75rem;">
+  <div class="card" style="width: 50rem;">
     <img src="3rdIMG.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Lorem, ipsum.</h5>
@@ -78,7 +78,17 @@
   </div>
 
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <footer id="main-footer">
