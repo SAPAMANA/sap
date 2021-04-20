@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="project-style.css">
+    <title>PROJECTS</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">SPMNA</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+            </button>
+      
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+             <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                 <a class="nav-link" href="#">ABOUT</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">PROJECTS</a>
+                   </li>
+                   <li class="nav-item active">
+                    <a class="nav-link" href="#">ACTIVITIES</a>
+                   </li>
+                   <li class="nav-item active">
+                    <a class="nav-link" href="#">CONTACT</a>
+                   </li>
+             </ul>
+             </div>
+        </div>
+    </nav>
+
+
+    <div class="container">
+
+
+<h1 class="header-text">PROJECTS</h1>
+<div class="card" style="width: 75rem;">
+    <img src="1stIMG.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">HYDROPONICS</h5>
+      <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+           Consectetur dolores beatae, natus dicta consequatur, repellat, dignissimos sit hic accusantium 
+           itaque ratione nesciunt impedit? Expedita facilis voluptate totam quod deserunt, nostrum nobis veritatis libero deleniti quam, 
+          nulla ipsam voluptatem distinctio corporis est optio rem at nemo doloremque voluptas laboriosam eius pariatur.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
+
+
+  <div class="card" style="width: 75rem;">
+    <img src="2ndIMG.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Lorem, ipsum.</h5>
+      <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+           Consectetur dolores beatae, natus dicta consequatur, repellat, dignissimos sit hic accusantium 
+           itaque ratione nesciunt impedit? Expedita facilis voluptate totam quod deserunt, nostrum nobis veritatis libero deleniti quam, 
+          nulla ipsam voluptatem distinctio corporis est optio rem at nemo doloremque voluptas laboriosam eius pariatur.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
+
+  <div class="card" style="width: 75rem;">
+    <img src="3rdIMG.png" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Lorem, ipsum.</h5>
+      <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+           Consectetur dolores beatae, natus dicta consequatur, repellat, dignissimos sit hic accusantium 
+           itaque ratione nesciunt impedit? Expedita facilis voluptate totam quod deserunt, nostrum nobis veritatis libero deleniti quam, 
+          nulla ipsam voluptatem distinctio corporis est optio rem at nemo doloremque voluptas laboriosam eius pariatur.</p>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>
+
+
+</div>
+
+
+<footer id="main-footer">
+    <p>Copyright &copy; 2021 SPMNA</p>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
