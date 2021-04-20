@@ -1,0 +1,44 @@
+@font-face{
+    src: url(fonts/STRRETCH-SANS.ttf);
+    font-family: strrect-sans;
+}
+@font-face{
+    src: url(fonts/GothamBook.ttf);
+    font-family: batman-book;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'batman-book';
+}
+
+.navbar{
+    background-color: #cea176;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar-brand{
+    font-family: 'strrect-sans';
+}
+.navbar-nav{
+    font-family: 'strrect-sans'; 
+}
+.nav-item{
+    padding-right: 10px;
+}
+#main-footer{
+    background-color: #cea176;
+    padding: 10px;
+    margin-top: 1000px;
+}
+
+.header-text{
+    font-family: 'batman-book';
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.card{
+    margin-bottom: 50px;
+}
