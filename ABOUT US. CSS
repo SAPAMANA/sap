@@ -1,0 +1,89 @@
+@font-face {
+    src: url(fonts/STRRETCH-SANS.ttf);
+    font-family: strrect-sans;
+  }
+  @font-face {
+    src: url(fonts/GothamBook.ttf);
+    font-family: batman-book;
+  }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "batman-book";
+  }
+.navbar {
+    background-color: #cea176;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .navbar-brand {
+    font-family: "strrect-sans";
+  }
+  .navbar-nav {
+    font-family: "strrect-sans";
+  }
+  .nav-item {
+    padding-right: 10px;
+  }
+  .rpicture{
+      float: left;
+      width: 30%;
+      padding: 15px;
+  }
+  .ltext{
+      float: right;
+      width: 40%;
+      padding: 15px;
+  }
+  .header{
+      font-family: 'batman-look';
+      font-size: 55px;
+      color: rgba(33, 33, 78, 0.767);
+  }
+  .bottom-text{
+      margin-top: 500px;
+      margin-left: 150px;
+      margin-right: 150px;
+  }
+
+  .v-paragraph {
+    padding: 50px;
+    text-align: justify;
+  }
+  
+  .header-vission {
+    padding: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 50px;
+  }
+  .main-vission {
+    width: 50%;
+    float: left;
+    background-color: #4b6174;
+    color: white;
+    margin-top: 100px;
+  }
+  
+  .m-paragraph {
+    padding: 50px;
+    text-align: justify;
+  }
+  .header-mission {
+    padding: 20px;
+    padding-bottom: 30px;
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+    font-size: 50px;
+  }
+  .main-mission {
+    width: 50%;
+    float: right;
+    background-color: #8192a1;
+    color: white;
+    margin-top: 100px;
+  }
+
+
