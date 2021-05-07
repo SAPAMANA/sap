@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="about-us.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">SPMNA</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+            </button>
+      
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+             <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                 <a class="nav-link" href="#">ABOUT</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">PROJECTS</a>
+                   </li>
+                   <li class="nav-item active">
+                    <a class="nav-link" href="#">ACTIVITIES</a>
+                   </li>
+                   <li class="nav-item active">
+                    <a class="nav-link" href="#">CONTACT</a>
+                   </li>
+             </ul>
+             </div>
+        </div>
+    </nav>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="1stIMG.png" class="d-block w-100" alt="...">
+        </div>
+    </div>
+      
+    <div class="container">
+        <div class="rpicture">
+            <img src="2ndIMG.png" width="650" height="450" alt="">
+        </div>
+        <div class="ltext">
+            <p class="header">
+                How It started
+            </p>
+            <p class="paragraph">
+                Lorem Deserunt corrupti enim illo voluptate cumque voluptates, praesentium labore ullam, tempora molestias voluptas,
+                  exercitationem pariatur repudiandae eaque veniam! Fugit unde ex laborum? Quaerat, dolor excepturi, 
+                  pariatur explicabo enim quam modi sapiente ut porro consectetur sequi quo. Distinctio sapiente reprehenderit sequi alias?
+                   Assumenda hic incidunt, fuga nam voluptatum maxime illo consequuntur excepturi doloremque
+                    sapiente consectetur ab fugiat consequatur impedit nobis accusamus dolores?
+                 Illum adipisci magnam suscipit cumque, inventore facilis voluptates ipsa laboriosam, tempora 
+                 consequatur ex quaerat exercitationem excepturi sunt, asperiores fugit autem cum. 
+                 
+            </p>
+        </div>
+    </div>
+    <div class="text">
+        <p class="bottom-text">Lorem ipsum dolor sit,
+         amet consectetur adipisicing elit.
+          Quia explicabo magni, sed saepe assumenda, deleniti recusandae ipsam et soluta architecto dolor expedita 
+          dolorum ullam ut, earum porro possimus deserunt animi iste placeat totam. Quis sapiente optio dolor laborum quasi
+           quo minus placeat fugiat ex. Quo, consectetur. Omnis dolorum consequuntur consectetur ipsum! Repellendus libero
+            eos accusamus unde deleniti! Culpa, ullam magni. Est dolorum necessitatibus deserunt provident, amet iste cupiditate
+             possimus voluptatum error veritatis recusandae quae fuga cumque fugit animi modi, a non nesciunt tenetur at? Saepe
+              corrupti ad libero architecto a minus impedit voluptas, odit excepturi nostrum maxime consequuntur quae magnam in 
+              animi adipisci repellendus mollitia? Quo labore natus voluptas ipsam, aperiam voluptates sunt dolore deleniti
+               molestiae perferendis ut delectus quam fugiat expedita necessitatibus praesentium, ipsa repudiandae sit
+                exercitationem quaerat eligendi eveniet magnam nam recusandae. Sapiente, dolor quod repellat repellendus
+                 totam, tempora aliquam ea qui omnis nemo ducimus est adipisci consequuntur!</p>
+    </div>
+
+    <div class="container">
+        <div class="main-vission">
+          <h1 class="header-vission"><strong>VISION</strong></h1>
+          <p class="v-paragraph">Lorem ipsum dolor sit amet consectetur
+               adipisicing elit. In, fugit repellat! Nulla, atque expedita? Sunt, 
+               dolor. Delectus quasi culpa facilis ut eligendi nulla beatae consequuntur
+                iusto ex dicta optio, deserunt asperiores necessitatibus id magnam voluptates 
+                quod dolorem praesentium atque provident. Nulla reiciendis eius ratione voluptate,
+                 quam recusandae sed, vel totam cupiditate nemo officiis dicta dolore odit corporis 
+                 similique amet voluptatibus fugiat dignissimos temporibus rerum optio magnam laborum,
+                  inventore officia! Esse odit assumenda inventore veniam labore earum adipisci itaque reprehenderit
+               accusantium voluptate? Expedita, vel repellat tempore iure nostrum unde obcaecati modi 
+               iste fugit. Alias delectus soluta quasi eaque vel porro excepturi?</p>
+        </div>
+  
+        <div class="main-mission">
+          <p class="m-paragraph">Lorem ipsum dolor sit amet consectetur
+               adipisicing elit. In, fugit repellat! Nulla, atque expedita? Sunt, 
+               dolor. Delectus quasi culpa facilis ut eligendi nulla beatae consequuntur
+                iusto ex dicta optio, deserunt asperiores necessitatibus id magnam voluptates 
+                quod dolorem praesentium atque provident. Nulla reiciendis eius ratione voluptate,
+                 quam recusandae sed, vel totam cupiditate nemo officiis dicta dolore odit corporis 
+                 similique amet voluptatibus fugiat dignissimos temporibus rerum optio magnam laborum,
+                  inventore officia! Esse odit assumenda inventore veniam labore earum adipisci itaque reprehenderit
+               accusantium voluptate? Expedita, vel repellat tempore iure nostrum unde obcaecati modi 
+               iste fugit. Alias delectus soluta quasi eaque vel porro excepturi?</p>
+               <h1 class="header-mission"><strong>MISSION</strong></h1>
+        </div>
+      </div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
